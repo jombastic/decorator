@@ -1,11 +1,13 @@
-.ho-before {
-  width: 50%;
+.decor {
+  width: 49.8%;
+  height: 470px;
   color: white;
   background-color: grey;
   text-align: center;
   font-size: 20px;
   font-family: cursive;
   float: left;
+  border: 1px solid white;
 }
 
 img {
